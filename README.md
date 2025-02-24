@@ -4,7 +4,7 @@ Thanks for checking out my submission for the Lumaa AI/Machine Learning Intern C
 
 ## Dataset
 
-The dataset that I've used for this project is the [Wikipedia Movie Plots](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots) dataset from Kaggle. Without any modification, the dataset contains information for about 35,000 movies, which is way too many movies for this project! I've included a modified version of this dataset in my submission, which only contains the first 500 rows from the dataset. This means that you will not need to take any steps to download the dataset and add it to my project, but feel free to check out the entire dataset on Kaggle if you wish.
+The dataset that I've used for this project is the [Wikipedia Movie Plots](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots) dataset from Kaggle. Without any modification, the dataset contains information for about 35,000 movies, which is way too many movies for this project! I've included a modified version of this dataset, `movie_plots.csv`, in my submission, which only contains the first 500 rows from the dataset. This means that you will not need to take any steps to download the dataset and add it to my project, but feel free to check out the entire dataset on Kaggle if you wish.
 
 ## Setup
 
